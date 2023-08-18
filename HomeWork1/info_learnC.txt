@@ -1,0 +1,5 @@
+https://port70.net/~nsz/c/c11/n1570.html
+
+https://en.cppreference.com/w/c
+
+Stack Overflow, C Programming subreddit и C board във форума на CodeGuru.

@@ -1,0 +1,7 @@
+gcc program.c program - izpalnenieto na koda go vkarwame w fail
+
+gcc main.c main.o
+gcc functions.c functions.o
+
+gcc main. functions. -o program obedinqwame dwata izpalnimi faila
+-lm - kluch che vkarvame library math.c
